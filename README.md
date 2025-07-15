@@ -108,8 +108,8 @@ numpy
 
 ## 📬 تواصل
 
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- Email: your.email@example.com
+- GitHub: [@Omar-b381](https://github.com/Omar-b381)
+- Email: omar.work381@gmail.com
 
 ---
 
